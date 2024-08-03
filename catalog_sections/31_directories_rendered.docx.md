@@ -14,7 +14,7 @@
   B.S., Middle East Technical University, Turkey; Ph.D., University of Iowa.
 
  BRIE SWENSON ARNOLD  
-  Associate Professor of History.  
+  Professor of History.  
   B.A., Concordia College; M.A., Ph.D., University of Minnesota.
 
  KATE ASPENGREN  
@@ -69,10 +69,6 @@
   Professor of History.  
   B.A., Stanford University; M.A., Ph.D., Emory University.  
 
- HEIDE BURSCH  
-  Associate Professor of Nursing.  
-  B.S.N., M.S.N., Ph.D., University of Iowa.  
-
  ALLISON CARR  
   Associate Professor of Rhetoric.  
   B.A., Coe College; M.A., Ph.D., University of Cincinnati.  
@@ -87,10 +83,10 @@
 
  VANESSA CASTILLO  
   Assistant Professor of Psychology.  
-  B.A., Concordia College; B.S., PhD. Iowa State University.  
+  B.A., Concordia College; M.S., PhD. Iowa State University.  
 
  JOHN BRADLEY CHAIMOV  
-  Associate Professor, Director of Off-Campus Study.  
+  Associate Professor of World Languages, Director of Off-Campus Study.  
   B.A., University of California, San Diego; M.A., Ph.D., University of Chicago.  
 
  JOHN M. CHANDLER  
@@ -102,7 +98,7 @@
   B.S., National Taiwan University; M.B.A., University of California, Irvine; Ph.D., University of California, Santa Cruz.  
 
  BENJAMIN CHIHAK  
-  Assistant Professor of Psychology.  
+  Associate Professor of Psychology.  
   B.A., Macalester College; Ph.D., University of Minnesota.  
 
  JOSHUA CHRISTENSEN  
@@ -125,13 +121,9 @@
   Professor of Statistics.  
   B.A., B.S., Miami University; M.S., University of Missouri-Rolla; M.S., Ph.D., University of Iowa.  
 
- HANNAH DEHNER  
-  Assistant Professor of Nursing.  
-  BSN, MSN, University of Iowa.  
-
- THERESA A. DONOFRIO  
-  Associate Professor of Communication Studies.  
-  B.A., Miami University; M.A., Ph.D., University of Maryland.  
+ ANNA DREXLER  
+  Assistant Professor of World Languages and Director of International Student Affairs.  
+  B.A., Coe College; M.F.A.,University of Oregon.  
 
  FIRDEVS DURU  
   Associate Professor of Physics.  
@@ -142,7 +134,7 @@
   B.S., University of Tulsa; M.A., Ph.D., Colorado State University.  
 
  JESSE ELLIS  
-  Associate Professor of Biology.  
+  Associate Professor of Biology and Director of the Coe Wilderness Field Station.  
   B.A., Lewis & Clark College; Ph.D., Cornell University.  
 
  JULIE FAIRBANKS  
@@ -165,10 +157,6 @@
   Assistant Professor of Creative Writing.  
   B.A., York University; M.A., University of Windsor; Ph.D., University of South Dakota.  
 
- LUCILLE GOODSON  
-  Associate Professor of Art.  
-  B.A., Black Hills State College; M.F.A., Indiana University.  
-
  SHARON GUTHRIE  
   Associate Professor of Nursing.  
   A.A., A.S., Kirkwood Community College; BSN, MSN, Ph.D., University of Iowa.  
@@ -187,11 +175,7 @@
 
  DAVID HAYES  
   President, Professor of Business Administration.  
-  B.A., Coe College; J.D., University of Iowa; L.L.M., University of Iowa Law School.  
-
- NANCY HAYES  
-  Associate Professor of Education.  
-  B.A., University of Illinois, Urbana-Champaign; M.A., Pennsylvania State University; Ph.D., University of Iowa.  
+  B.A., Coe College; J.D., University of Iowa; L.L.M., University of Iowa College of Law.  
 
  STACY HAYNES-MOORE  
   Assistant Professor of Education.  
@@ -217,12 +201,12 @@
   Associate Professor of Computer Science.  
   B.S., Dickinson College; M.S., Indiana University; Ph.D., University of Pittsburgh.  
 
- JOYCE M. JANCA-AJI  
+ JOYCE M. JANCA  
   Associate Professor of French.  
   B.A., Southern Illinois University-Carbondale; M.A., Ph.D., Indiana University at Bloomington.  
 
  CHRISTOPHER JOHNSON  
-  Assistant Professor of Education and African-American Studies.  
+  Associate Professor of Education and African-American Studies.  
   B.S., Florida Agricultural & Mechanical University; M.E., Ph.D., The University of Georgia.  
 
  BETHANY A. KEENAN  
@@ -230,7 +214,7 @@
   B.A., Douglass College, Rutgers; M.A., The State University of New Jersey; M.A., Ph.D. University of North Carolina – Chapel Hill.  
 
  SCOUT KELLY  
-  Assistant Professor of Psychology.  
+  Associate Professor of Psychology.  
   B.A., University of Puget Sound; M.A., Ph.D., Kent State University.  
 
  MEIRA Z. KENSKY  
@@ -261,7 +245,7 @@
   Assistant Professor of Psychology.  
   B.S., Loyola University, Chicago; M.A., Ph.D., Northern Illinois University.  
 
- MARGARET LEMAY-LEWIS  
+ MARGARET LEMAY   
   Assistant Professor of English.  
   B.A., Barnard College; M.F.A., University of Iowa Writers’ Workshop.  
 
@@ -278,11 +262,11 @@
   B.A., Knox College; M.A., Ph.D., Southern Illinois University, Carbondale.  
 
  CHAD LIBBY  
-  Assistant Professor of Kinesiology; Director of Athletic Training Education.  
+  Assistant Professor of Kinesiology.  
   B.S., Morningside College; M.S., Louisiana State University.  
 
  LUKE LOVEGOOD  
-  Assistant Professor of Music - Choral Music Education  
+  Assistant Professor of Music  
   B.M., Coe College; M.M.E., VanderCook College of Music  
 
  RANELLE KNIGHT LUETH  
@@ -293,28 +277,24 @@
   Assistant Professor of Social and Criminal Justice.  
   B.A.; M.A., University of Central Oklahoma; Ph.D., University of Oklahoma.  
 
- LaTANYA McQUEEN  
-  Assistant Professor of English and Creative Writing.  
-  B.F.A; M.F.A., Emerson College; Ph.D., University of Missouri.  
-
  CARRIE MELCHER  
   Associate Professor of Stead Department of Business Administration and Economics.  
-  B.S., Ohio State University; M.P.H., Drake University.  
+  B.S., The Ohio State University; M.P.H., Drake University.  
 
  BRITTNEY MILLER  
   Associate Professor of Mathematics.  
   B.S., University of Southern California; Ph.D., Purdue University.  
 
- BRETT MOMMER  
-  Visiting Assistant Professor of Biology  
-  B.S., Iowa State University; M.S., Ph.D. University of Illinois, Champaign.  
+ JONATHAN MITCHELL  
+  Assistant Professor Biology  
+  B.S., Appalachian State University; Ph.D., University of Chicago.  
 
  LAISSA RODRIGUEZ MORENO  
-  Assistant Professor of Spanish.  
+  Associate Professor of Spanish.  
   B.A., Universidad Nacional de Colombia; M.A., Ph.D., University of Wisconsin – Madison.  
 
  BRUCE F. NESMITH  
-  Professor of Political Science and Director of Washington Term.  
+  Professor of Political Science.  
   B.A., North Central College; M.A., Ph.D., University of Illinois.  
 
  JANE NESMITH  
@@ -322,7 +302,7 @@
   B.A., The College of Wooster; M.A., Indiana University; Ph.D., University of Iowa.  
 
  VINH Q. NGUYEN  
-  Associate Professor of Stead Department of Business Administration and Economics.  
+  Professor of Stead Department of Business Administration and Economics.  
   B.A., National Economics University, Vietnam; M.B.A., Asian Institute of Technology, Thailand; Ph.D., Mississippi State University.  
 
  DAVID A. NORDMANN  
@@ -335,7 +315,7 @@
 
  NIALL PEACH  
   Assistant Professor of Spanish.  
-  B.A., Durham University, St. Aidan’s College; M.A., Ph.D., Purdue University.  
+  B.A., St. Aidan’s College- Durham University; M.A., Ph.D., Purdue University.  
 
  AMY PERRY  
   Assistant Professor of Stead Department of Business Administration and Economics.  
@@ -346,7 +326,7 @@
   B.S., Arizona State University; Ph.D., University of Iowa.  
 
  LAURA RISKEDAHL  
-  Interim Director of Library Services.  
+  Director of Library Services.  
   B.A., University of Northern Iowa; M.A., University of Iowa.  
 
  KATIE RODGERS  
@@ -365,10 +345,6 @@
   Assistant Professor of Kinesiology.  
   B.S., Michigan State University; M.A., University of Iowa.  
 
- MARTIN ALAN ST. CLAIR  
-  Professor of Chemistry.  
-  B.S., Butler University; Ph.D., California Institute of Technology.  
-
  PAULA J. SANCHINI  
   Professor of Biology.  
   B.A., Hartwick College; Ph.D., University of Colorado – Boulder.  
@@ -378,7 +354,7 @@
   B.A., University of Iowa.  
 
  STEVEN SHANLEY  
-  Associate Professor of Music.  
+  Professor of Music.  
   B.M., University of Northern Iowa; M.E., University of Minnesota; M.A., Ph.D., University of Iowa.  
 
  AMBER SHAW  
@@ -417,17 +393,9 @@
   Associate Professor of Chemistry.  
   B.A., Pennsylvania State University; Ph.D., Michigan State University.  
 
- PETER JOHN THOMPSON  
-  Professor of Art.  
-  B.A., M.A., M.F.A., University of Iowa.  
-
  MICHELLE UMBARGER-MACKEY  
   Associate Professor of Nursing.  
   B.S.N., M.S.N., Ph.D., University of Iowa.  
-
- PATRICIA VALDERRAMA  
-  Assistant Professor of English.  
-  B.A., Princeton University; Ph.D., Stanford University.  
 
  DREW WESTBERG  
   Associate Professor of Economics.  
@@ -438,7 +406,7 @@
   B.A., Coe College; M.S., University of Iowa; Ph.D., University of Oklahoma.  
 
  SUSAN WOLVERTON  
-  Professor of Theatre Arts, Interim Associate Dean for Student Academics  
+  Professor of Theatre Arts, Associate Dean for Student Academics  
   B.A., Carleton College; M.F.A., University of Iowa.  
 
  HONGBO XIE  
@@ -446,7 +414,7 @@
   B.S., Nanjing Institute of Meteorology, Nanjing, China; M.A., University of Iowa.  
 
  ANGELA ZISKOWSKI  
-  Interim Provost and Dean of the Faculty; Associate Professor of History.  
+  Provost and Dean of the Faculty; Associate Professor of History.  
   B.A., University of Cincinnati; M.A., Ph.D., Bryn Mawr College.  
 
 ### Faculty Emeriti
@@ -458,11 +426,14 @@
  JOHN A. BECKELMAN, M.F.A.  
   Robert O. Daniel Professor of Art, Emeritus (1978–2015).  
 
- JOHN E. BROWN  
-  President, Emeritus (1982-2001)  
+ JOHN E. BROWN, PH.D. 
+  President, Emeritus (1982-2001).   
 
  EDMUND BURKE, Ph.D.  
   Professor of Humanities, Emeritus (1974–2012).   
+
+ HEIDI BURSCH, Ph.D.  
+ Associate Professor of Nursing, Emerita (2014-2023).  
 
  ROSEMARY F. CARROLL, Ph.D.  
   Henry and Margaret Haegg Distinguished Professor of History, Emerita (1971–2001).  
