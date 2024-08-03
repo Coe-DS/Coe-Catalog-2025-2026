@@ -433,7 +433,7 @@
   Professor of Humanities, Emeritus (1974–2012).   
 
  HEIDI BURSCH, Ph.D.  
- Associate Professor of Nursing, Emerita (2014-2023).  
+  Associate Professor of Nursing, Emerita (2014-2023).  
 
  ROSEMARY F. CARROLL, Ph.D.  
   Henry and Margaret Haegg Distinguished Professor of History, Emerita (1971–2001).  
@@ -441,29 +441,29 @@
  JAMES P. COTTINGHAM, Ph.D.  
   Professor of Physics, Emeritus (1989–2011).  
 
+ MARIA A. DEAN, Ph.D.  
+  Professor of Chemistry, Emerita (1984-2020).  
+
+ RICHARD D. DOYLE, M.A.  
+  Professor, Emeritus; Director of Library Services and Director of Technology (1972-2010).  
+
  ROBERT DANIEL DREXLER, Ph.D.  
   William P. and Gayle S. Whipple Professor of English, Emeritus (1974–2016).  
 
- RICHARD D. DOYLE, M.A.  
-  Professor, Emeritus; Director of Library Services and Director of Technology (1972–2010).  
-
- MARIA A. DEAN  
-  Professor of Chemistry, Emeritus (1984–2020).  
-
- WENDY DUNN  
-  Professor of Psychology , Emeritus (1980–2020).  
+ WENDY DUNN, Ph.D.  
+  Professor of Psychology , Emerita (1980–2020).  
 
  ALLEN P. FISHER, Ph.D.  
   Stead Family Professor of Sociology, Emeritus (1978–2011).  
 
+ LUCILLE GOODSON, M.F.A.  
+  Associate Professor of Art, Emerita (1985-2023).  
+
  HARLO HADOW, Ph.D.  
-  Heins-Johnson Professor of Biology and Director of the Coe Wilderness Field Station, Emeritus (1977–2019).  
+  Heins-Johnson Professor of Biology, Emeritus (1977–2019).  
 
  JEANNINE HAMMOND, Ph.D.  
   Joanne M. Pochobradsky Professor of French, Emerita (1973–2006).  
-
- DWIGHT W. HANSEN, M.A.  
-  Associate Professor of Stead Department of Business Administration and Economics, Emeritus (1978–2016).  
 
  TERRY L. HELLER, Ph.D.  
   Howard Hall Professor of English, Emeritus (1975–2013).  
@@ -492,17 +492,14 @@
  ROBERT L. MARRS, Ph.D.  
   The Esther and Robert Armstrong Professor of Rhetoric, Emeritus (1986–2014).  
 
- PETER N. McCORMICK, Ph.D.  
-  Professor of Philosophy, Emeritus (1974–2018)   
-
  MICHAEL McDONALD, M.A.  
   Professor of Business Administration and Economics, Emeritus (1981–2005).  
 
- DAVID W. McINALLY  
-  President, Emeritus (2013-2021)  
+ DAVID W. McINALLY, E.Ed.  
+  President, Emeritus (2013-2021).  
 
  TERRY FUELLING McNABB, Ph.D.  
-  Professor of Education, Emerita (1995-2016); Associate Dean of the Faculty, (2010–2015).  
+  Professor of Education, Emerita (1995-2016).  
 
  EVELYN J. MOORE, Ph.D.  
   Professor of Nursing, Emerita (1983–2014).  
@@ -516,20 +513,23 @@
  JAMES R. PHIFER, Ph.D.  
   President of the College, Emeritus, and Professor of History, Emeritus (1985–2013).  
 
- MICHAEL E. PUFALL, Ph.D.  
-  Professor of Theatre Arts, Emeritus (1976–2000).  
-
  JAMES H. RANDALL, M.A.  
   Stead Professor of English, Emeritus (1969–70; 1971–2010).  
 
  KURT E. REDBORG, Ph.D.  
   Professor of Biology, Emeritus (1988–2017).  
 
+ MARTIN ALAN ST. CLAIR, Ph.D.  
+ Professor of Chemistry, Emeritus (1993-2023).
+
  MICHAEL L. SANDBERG, Ph.D.  
   Louie J. And Ella Pochobradsky Professor of Business Administration, Emeritus (1976–2007).  
 
  FLOYD SANDFORD, Ph.D.  
   Professor of Biology, Emeritus (1971–2005).  
+
+ PETER JOHN THOMPSON, M.F.A.  
+ Marvin D. Cone Professor of Art, Emeritus (1993-2023).
 
  CALVIN VAN NIEWAAL, M.S.  
   Professor of Computer Science and John F. Yothers Professor of Mathematics, Emeritus (1981–2018).  
@@ -540,7 +540,7 @@
  PETER PETTINER WICKHAM, Ph.D.  
   Henry and Margaret Haegg Distinguished Professor of Chemistry, Emeritus (1969–2000).  
 
- MICKEY TAI CHUIEN WU  
+ MICKEY TAI CHUIEN WU, Ph.D.  
   George R. Baker Professor of Business Administration and Economics (1979-2019).  
 
  NŰKHET D. YARBROUGH, Ph.D.  
@@ -548,9 +548,17 @@
 
 ### Adjunct Faculty
 
+ MATT CALMAN  
+  Adjunct Lecturer in Business Statistics.  
+  B.A., M.B.A., Georgia State University.  
+
  GEOFF CHAPLIN  
   Adjunct Assistant Professor of Religion.  
   B.A., Oberlin College; M.A., University of Chicago.  
+
+ BRIAN CHRISTOFFERSON  
+  Adjunct Assistant Professor of Education.  
+  B.A., University of Northern Iowa; M.A., Universoty of Texas at San Antonio.  
 
  EMILY GANFIELD  
   Instructor in Theatre Arts; Costume Shop Manager/Supervisor.  
@@ -564,51 +572,33 @@
   Adjunct Assistant Professor of Chemistry.  
   B.S., University of Maryland; Ph.D., University of Iowa.  
 
+ TOM JAVOROSKI  
+  Adjunct Assistant Professor of Philosophy.  
+  B.A., University of Wisconsin-Whitewater; M.A., Ph.D., University of Iowa.  
+
  KARLA KEYES  
   Instructor of Biology.  
   B.A., Coe College; M.S., Washington University School of Medicine.  
 
  JOSHUA LANGSETH  
-  Instructor in Humanities.  
+  Adjunct Instructor in Humanities.  
   B.A., Concordia College; M.A., Ph.D., University of Iowa.  
 
  AMY LUTTINGER  
   Adjunct Assistant Professor of Biology.  
   B.S., Massachusetts Institute of Technology; Ph.D., Princeton University.  
 
- MEGUMI POTTER  
-  Adjunct Instructor of Japanese.  
-  B.A., University of Iowa; M.A., Baylor University.  
-
- KELLI MARIE RICE  
-  Adjunct Instructor of Kinesiology.  
-  B.A., Central College; M.A., University of Iowa.  
-
- KARLA STEFFENS  
-  Assistant Professor of Theatre Arts and Gender and Sexuality Studies; Coordinator of Crimson Fellows Program.  
-  B.A., Southern Illinois University; M.A., Johns Hopkins University; M.F.A., University of Iowa.  
-
- CHERISH STEPHENSON  
-  Adjunct Instructor of Psychology.  
-  B.A., Coe College; M.S., University of North Carolina at Chapel Hill.  
+ JENNIFER LUTZ  
+  Adjunct Instructor of Accounting.  
+    
+ MELINDA WESTPHALEN  
+  Adjunct Assistant Professor of Music.  
+  B.A., Ohio Wesleyan University; M.A., Ph.D., University of Iowa.  
 
  JAMES WETZEL  
   Adjunct Instructor of Astronomy.  
   B.SC., University of Iowa.  
-
- BRETT A. WOLGAST  
-  Assistant Professor of Piano; College Organist.  
-  B.M., Kansas State University; M.A., M.F.A., D.M.A., University of Iowa.  
-
-### Special Program Faculty
-
- ANNA DREXLER  
-  Instructor and Director of English as a Second Language.  
-  B.A., Coe College; M.F.A., University of Oregon.  
-
- KATHY WELSH  
-  Instructor in English as a Second Language.  
-  B.A., M.A., University of Iowa.  
+  
 
 
 
