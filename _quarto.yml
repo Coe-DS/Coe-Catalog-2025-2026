@@ -11,7 +11,7 @@ execute:
 book:
   title: "Course Catalog 2023-2024"
   date: "8/1/2022"
-  cover-image: cover.png
+  cover-image: 2023 Catalog cover.png
   page-footer: "*Coe College Catalog (2024-2024)*"
   sidebar:
     search: true
