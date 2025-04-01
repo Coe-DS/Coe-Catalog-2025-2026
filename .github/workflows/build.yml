@@ -48,7 +48,6 @@ jobs:
 
       # Debug if something goes wrong!
       - name: Show Build Log on Failure
-        if: steps.build_step.outcome == 'failure' # Only run if the previous step failed
         run: |
           echo "--- Error Log Contents ---"
           cat /home/runner/work/Coe-Catalog-2023-2024/Coe-Catalog-2023-2024/index.log || echo "Build log not found or empty."
