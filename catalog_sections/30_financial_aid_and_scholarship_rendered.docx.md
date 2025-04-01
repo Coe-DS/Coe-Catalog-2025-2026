@@ -1,39 +1,29 @@
 # FINANCIAL AID AND SCHOLARSHIPS
 
-Coe College provides comprehensive need-based and merit-based financial aid programs designed to help qualified students attend Coe regardless of their family financial situation. Detailed information about financial aid programs and financial aid policies and guidelines are published in the *Coe College Financial Aid Handbook*.  New students must accept their financial aid award by submitting a $300 enrollment fee by May 1^st^ for the Fall Term. Extensions may be requested by contacting the Student Financial Services. If a student does not respond by the stated deadline, Coe College cannot guarantee the availability of any funds offered in the financial aid award.
+Coe College provides comprehensive need-based and merit-based financial aid programs designed to help qualified students attend Coe regardless of their family financial situation. Detailed information about financial aid programs and financial aid policies and guidelines are published in the *Coe College Financial Aid Handbook*.  New students must accept their financial aid award by submitting a \$300 enrollment fee by May 1^st^ for the Fall Term. Extensions may be requested by contacting the Student Financial Services. If a student does not respond by the stated deadline, Coe College cannot guarantee the availability of any funds offered in the financial aid award.
 
 ### Academic Scholarship and Awards
 
 Coe College offers academic and competitive scholarships to recognize the talents and achievements of students applying for admission. Academic scholarships require no separate application. 
 
 + **Trustee Scholarships and Heritage Awards**
-Academic scholarships and awards are based on high school academic record and test scores (ACT or SAT). Consideration may be given to leadership abilities, letters of recommendation, and/or community involvement, as well. Additional information can be obtained from the Office of Admission.
+Academic scholarships and awards are based on high school academic record and test scores (ACT or SAT), if desired by the student. Consideration may be given to leadership abilities, letters of recommendation, and/or community involvement, as well. Additional information can be obtained from the Office of Admission.
 + **Legacy Award**
 Awards are available to children or grandchildren of Coe alumni.
 + **Sibling Award**
 Awards are available to siblings of current students or siblings of Coe alumni.
-+ **International Scholarships**
-International students may qualify for academic or visual and performing arts scholarships.
 + **Transfer Scholarships**
 Transfer students who have at least a 3.0 GPA may qualify for academic and talent-based scholarships. Students may be eligible to compete for full and partial scholarships.
 + **Visual and Performing Arts Scholarships**
-Students with outstanding ability in art, music or theatre may compete for a scholarship. These scholarships are available to majors and non-majors. Additional scholarship opportunities for those majoring in music include the Marshall Full-Tuition scholarship, the Basler Vocal Music Scholarship, and the Schauwecker Scholarship.
-+ **National Merit Finalists**
-Full-tuition scholarships are awarded for National Merit Finalists if Coe is listed as first choice of schools with the National Merit Scholarship Corporation on May 1 of the student’s senior year.  National Merit awards are equal to the full-time tuition of the recipient’s entry year and renew yearly at the same rate.
-+ **International Full-Tuition Scholarship**
-The International Full-Tuition Scholarship will be given to one student who demonstrates high academic achievement and financial need. This award is equal to the full-time tuition of the recipient’s entry year and renewed yearly at the same rate.
+Students with outstanding ability in art, music or theatre may compete for a scholarship. These scholarships are available to participating students.
++ **Merit Recognition Award**
+Full-tuition Merit Recignition Awards are designated for students who hold finalist standing with the National Merit Scholarship Corporation in the National Merit Scholarship Program.
++ **Global Leadership Scholarship**
+The Global Leadership Scholarship will be given to one student who demonstrates high academic achievement and financial need. This award is equal to the full-time tuition of the recipient’s entry year and renewed yearly at the same rate.
 
 ### Williston Jones Full-Tuition Scholarships 
 Several full-and partial-tuition scholarships will be awarded. Finalists are invited to interview or audition on campus.
 
-+ **The Distinguished Trustee Scholarship**
-This scholarship is awarded to high academic students with the potential to positively impact our campus.
-+ **The Diversity Leadership Scholarship**
-Coe believes educational experience is strengthened by the inclusion of strong voices from diverse backgrounds. This scholarship is awarded to students from historically underrepresented populations.
-+ **The Marshall Music Scholarship**
-Open to prospective students who have the motivation and background necessary to pursue the Bachelor of Music degree.
-+ **The Sustainability Scholarship**
-This scholarship is awarded to students who show passion and concern for our environment.
 + **The Impact Award**
 The Coe College community values the ability each student has to make an impact on campus.  This award recognizes this relationship the student has with the campus community. Eligible students are notified of the requirements to receive this award upon admission to the College.
 
@@ -45,55 +35,50 @@ The Coe College community values the ability each student has to make an impact 
 + Because these scholarships are awarded on merit, students do not have to demonstrate financial need to qualify. 
 + Coe College reserves the right to make any adjustments deemed necessary to the selection criteria, eligibility requirements, or award amounts of these scholarships. Questions regarding Coe scholarships should be directed to the Office of Admission.
 
-### Need-based Financial Aid 
+### NEED-BASED FINANCIAL AID   
 
-Need-based financial aid is available to students who are admitted to Coe College and file the Free Application for Federal Student Aid (FAFSA).  These assistance programs are based on the premise that students and parents should pay for college to the extent that they are able. Need-based financial aid is used to help make up the difference between the cost of college and what a family can afford.
+	 Need-based financial aid is available to students who are admitted to Coe College and file the Free Application for Federal Student Aid (FAFSA).  These assistance programs are based on the premise that students and parents should pay for college to the extent that they are able. Need-based financial aid is used to help make up the difference between the cost of college and what a family can afford.
  
-When a FAFSA is filed, a standard formula is used to calculate the expected family contribution – the amount that the student and his or her family are expected to pay.  The Student Financial Services Office compares the expected family contribution (EFC) to estimated cost of attendance.  If the costs exceed the amount of the EFC, the student is eligible for need-based financial aid. A typical financial aid package will contain a combination of gift aid (scholarships and grants) and self-help aid (low-interest educational loans and employment). Information released to Coe College through the FAFSA application is kept confidential. 
+	 When a FAFSA is filed, a standard formula is used to calculate the expected family contribution – the amount that the student and his or her family are expected to pay.  The Student Financial Services Office compares the expected family contribution (EFC) to estimated cost of attendance.  If the costs exceed the amount of the EFC, the student is eligible for need-based financial aid. A typical financial aid package will contain a combination of gift aid (scholarships and grants) and self-help aid (low-interest educational loans and employment). Information released to Coe College through the FAFSA application is kept confidential. 
 
-Application for all need-based financial aid programs must be made for each year the student is enrolled. The FAFSA is available online at [Federal Student Aid](www.fafsa.gov).
+	 Application for all need-based financial aid programs must be made for each year the student is enrolled. The FAFSA is available online at [Federal Student Aid](www.fafsa.gov).
 
 **Verification Process** 
 
-Federal regulations require that some applicants who are eligible for need-based financial aid complete the verification process. Students may be chosen for verification by the U.S. Department of Education or by Coe College. Applicants selected for verification are required to submit supporting documentation to the Student Financial Services. These supporting documents may include, but are not limited to, copies of student and parent IRS tax transcripts from a prior tax year, verification of untaxed income received, family size and the number of family members attending college during the next academic year. Returning students selected for verification will not receive a financial aid award offer until all requested documents are received and reviewed by the Student Financial Services Office. Prospective students will receive a preliminary financial aid award offer prior to completion of verification. In order to finalize the awards offered, all requested documents should be received by the Student Financial Services Office at least one month prior to the end of the award period. A financial aid award is subject to change if verification results in a change to the Expected Family Contribution (EFC). During the verification process the Student Financial Services Office will contact students if clarification is needed on any of the information reported on the FAFSA or if it is necessary to make corrections to the FAFSA data. 
+	 Federal regulations require that some applicants who are eligible for need-based financial aid complete the verification process. Students may be chosen for verification by the U.S. Department of Education or by Coe College. Applicants selected for verification are required to submit supporting documentation to the Student Financial Services. These supporting documents may include, but are not limited to, copies of student and parent IRS tax transcripts from a prior tax year, verification of untaxed income received, family size and the number of family members attending college during the next academic year. Returning students selected for verification will not receive a financial aid award offer until all requested documents are received and reviewed by the Student Financial Services Office. Prospective students will receive a preliminary financial aid award offer prior to completion of verification. In order to finalize the awards offered, all requested documents should be received by the Student Financial Services Office at least one month prior to the end of the award period. A financial aid award is subject to change if verification results in a change to the Expected Family Contribution (EFC). During the verification process the Student Financial Services Office will contact students if clarification is needed on any of the information reported on the FAFSA or if it is necessary to make corrections to the FAFSA data. 
 
-### Need-based Gift Aid
+### NEED-BASED GIFT AID
 
-Gift aid does not have to be repaid by the student. Need-based gift aid is available through federal, state, institutional and outside sources.
+	 Gift aid does not have to be repaid by the student. Need-based gift aid is available through federal, state, institutional and outside sources.
 
-+ **Coe Grant**
-	The value of a Coe Grant is influenced by a student’s financial need. The amount of the Coe Grant can vary from year to year, depending on changes in family income, room and board charges, and the availability of funding.
-	Coe has many endowed scholarships that have been established by generous alumni and friends of the College. Income from these scholarships is used primarily to support Coe funded merit- and need-based aid. Students awarded Coe aid may be asked to complete an ‘Endowed Scholarship Application.’ The Financial Aid Office will use information from this application to match students with endowed scholarships. Students designated to have their Coe aid funded by an endowed scholarship may be contacted by the Coe College Advancement Office with information about their donor. (**Note**: Endowed scholarships funds support Coe funded aid already granted to the student. Under no circumstances will the student receive additional funding beyond what has already been listed on the financial aid award letter.) Endowed scholarship funds are vital sources of assistance for many of our students. It will be requested that each student receiving funds from an endowed scholarship write a letter of thanks to the donor or the designated official. Donor information and letter suggestions will be provided by the Office of Advancement.  
+	 The value of a Coe Grant is influenced by a student’s financial need. The amount of the Coe Grant can vary from year to year, depending on changes in family income, room and board charges, and the availability of funding.
+	 Coe has many endowed scholarships that have been established by generous alumni and friends of the College. Income from these scholarships is used primarily to support Coe funded merit- and need-based aid. Students awarded Coe aid may be asked to complete an ‘Endowed Scholarship Application.’ The Financial Aid Office will use information from this application to match students with endowed scholarships. Students designated to have their Coe aid funded by an endowed scholarship may be contacted by the Coe College Advancement Office with information about their donor. (**Note**: Endowed scholarships funds support Coe funded aid already granted to the student. Under no circumstances will the student receive additional funding beyond what has already been listed on the financial aid award letter.) Endowed scholarship funds are vital sources of assistance for many of our students. It will be requested that each student receiving funds from an endowed scholarship write a letter of thanks to the donor or the designated official. Donor information and letter suggestions will be provided by the Office of Advancement.  
+	 The **Federal Pell Grant** program is designed to provide financial assistance to eligible undergraduates. Application is made by filing a Free Application for Federal Student Aid (FAFSA).
+	 The Federal Pell Grant program provides grants to full- and part-time students and may be used at any eligible college or university that the student attends as an undergraduate or until the student receive a first baccalaureate degree. The award amount may vary according to the cost of the institution and the number of hours for which a student is enrolled. A student may receive no more than the equivalent of 12 full-time term awards. Students must be enrolled for three or more course credits per term to receive the full award. 
+	 The **Federal Supplemental Educational Opportunity Grant (SEOG)** program provides financial grant assistance to Pell Grant eligible undergraduates with exceptional financial need which, for the purposes of this program, is defined as those with the lowest EFC. The grants are made from funds provided by the federal government to Coe College. The College, in turn, selects needy students who have applied for financial aid and meet awarding criteria established by the federal government. SEOG awards at Coe are based on the availability of funding and can range from \$100 up to \$1,000 per academic year. These funds are limited and not all students who qualify can be assured that they will receive a SEOG grant.
 
-+ **Federal Pell Grant** 
-	The Federal Pell Grant program is designed to provide financial assistance to eligible undergraduates. Application is made by filing a Free Application for Federal Student Aid (FAFSA).
-	The Federal Pell Grant program provides grants to full- and part-time students and may be used at any eligible college or university that the student attends as an undergraduate or until the student receive a first baccalaureate degree. The award amount may vary according to the cost of the institution and the number of hours for which a student is enrolled. A student may receive no more than the equivalent of 12 full-time term awards. Students must be enrolled for three or more course credits per term to receive the full award. At press time, the current 2022–2023 Federal Pell grants awards range from $750 up to $6,845. However, final Pell Grant amounts are subject to the federal budget process and could very well be reduced. These grants are generally available to families with modest incomes. 
+	**State-Funded Grants and Scholarships**
+	**Iowa Tuition Grant (ITG)**
+	**All Iowa Oppurtunity Grant**
+	**Education and Training Vouchers (ETV)**
 
-+ **Federal Supplemental Educational Opportunity Grant (SEOG)**
-	The Federal Supplemental Educational Opportunity Grant (SEOG) program provides financial grant assistance to Pell Grant eligible undergraduates with exceptional financial need which, for the purposes of this program, is defined as those with the lowest EFC. The grants are made from funds provided by the federal government to Coe College. The College, in turn, selects needy students who have applied for financial aid and meet awarding criteria established by the federal government. SEOG awards at Coe are based on the availability of funding and can range from $100 up to $1,000 per academic year. These funds are limited and not all students who qualify can be assured that they will receive a SEOG grant.
-
-+ **Iowa Tuition Grant (ITG)**
-	The Iowa Tuition Grant (ITG) is available to qualified, undergraduate Iowa residents who are enrolled at least one quarter time (one course credit) at a private college in Iowa. A student may receive the ITG for no more than eight full-time terms. The ITG is based on financial need and a FAFSA filing deadline of July 1 ^st^.Application to receive the ITG at Coe can be made by listing Coe College on the FAFSA. For the 2021-22 academic year, students whose Expected Family Contribution (EFC) is no greater than $15,000 may qualify for a maximum full-time award of $6,800.
-
-+ **National Presbyterian Scholarships**
 	National Presbyterian Scholarships are offered to members of the Presbyterian Church (U.S.A.) who plan to attend one of the participating Presbyterian colleges, including Coe College. Students must file a separate application to the Presbyterian Church (U.S.A.) by December 1^st^. Only incoming first-year students may apply for these need-based renewable scholarships. (Applicants must complete the FAFSA to renew the scholarship.)
 
 ### Non-Need Based Gift Aid
 
-+ **The Education Assistance for College and Higher Education (TEACH)**
-	The Education Assistance for College and Higher Education (TEACH) program is designed to provide financial assistance of up to $4,000 per academic year to current and prospective teachers. To qualify for a TEACH Grant a student must have scored above the 75th percentile on any portion of the ACT or SAT (including composite scores) or have a 3.25 cumulative grade point average. First-year students must have a final cumulative high school grade point average of at least a 3.25 and upperclassmen must maintain a minimum cumulative GPA of 3.25 each Term. In addition, a recipient must serve as a full-time teacher in a high-need field, in a school serving low-income students for at least four academic years within eight years. If a student does not complete the required teaching obligation, the grant must be repaid as a Direct Unsubsidized Federal Direct Stafford Loan with interest from the time the grant was disbursed.
+	The **Education Assistance for College and Higher Education (TEACH)** program is designed to provide financial assistance of up to \$4,000 per academic year to current and prospective teachers. To qualify for a TEACH Grant a student must have scored above the 75th percentile on any portion of the ACT or SAT (including composite scores) or have a 3.25 cumulative grade point average. First-year students must have a final cumulative high school grade point average of at least a 3.25 and upperclassmen must maintain a minimum cumulative GPA of 3.25 each Term. In addition, a recipient must serve as a full-time teacher in a high-need field, in a school serving low-income students for at least four academic years within eight years. If a student does not complete the required teaching obligation, the grant must be repaid as a Direct Unsubsidized Federal Direct Stafford Loan with interest from the time the grant was disbursed.
 
 + **Active Duty Military Benefits**
 	An individual who is currently serving in the military or who is the spouse or dependent child of a service member who is currently serving on active duty, may be eligible for funding offered through the Department of Defense Tuition Assistance program. Applicants are encouraged to check their eligibility status and amount for which they qualify with their service prior to enrolling.
 
 + **Iowa National Guard Educational Assistance Grant** 
-	The Iowa National Guard Educational Assistance Grant (NGEAP) provides annual awards to Iowa National Guard members who attend eligible Iowa colleges and universities. Eligibility is determined by the Iowa Adjutant General. Maximum individual awards cannot exceed the current average resident tuition rate at Iowa Regent Universities. The maximum award amount for the 2021–22 academic year was $9,660. 
-
+	The Iowa National Guard Educational Assistance Grant (NGEAP) provides annual awards to Iowa National Guard members who attend eligible Iowa colleges and universities. Eligibility is determined by the Iowa Adjutant General. Maximum individual awards cannot exceed the current average resident tuition rate at Iowa Regent Universities. 
+**GEAR UP Iowa Scholarship**
 + **ROTC Scholarships and Grants**
-ROTC Scholarships and Grants are available through Coe College. The College ROTC program provides on-campus leadership training in conjunction with a student’s current curriculum. The scholarship provides payment of up to full tuition and fees for a given academic year and approximately $600 per term for books, and a subsistence allowance of up to $500 per month up to 10 months per academic year.  ROTC-eligible students should contact the Student Financial Services to determine the impact this scholarship will have on their total financial aid package.
+ROTC Scholarships and Grants are available through Coe College. The College ROTC program provides on-campus leadership training in conjunction with a student’s current curriculum. The scholarship provides payment of up to full tuition and fees for a given academic year and approximately \$600 per term for books, and a subsistence allowance of up to \$500 per month up to 10 months per academic year.  ROTC-eligible students should contact the Student Financial Services to determine the impact this scholarship will have on their total financial aid package.
 
 + **Veterans’ Educational Benefits**
-The Veterans Administration administers programs for veterans and service people seeking assistance for education and training.  A veteran or dependent of a veteran who plans to receive educational benefits, as determined by the Department of Veteran Affairs, should contact the Registrar’s Office well in advance of enrollment to request certification.  Additional information about veterans’ benefits at Coe College, such as the application process for the various programs, available resources, as well as withdrawal and readmit policies for service members, can be found on the [Coe College's Resources for Veterans and Military Students.](https://www.coe.edu/admission/financial-aid-scholarships/resources/veterans-and-military-benefits)
+The Veterans Administration administers programs for veterans and service people seeking assistance for education and training.  A veteran or dependent of a veteran who plans to receive educational benefits, as determined by the Department of Veteran Affairs, should contact the Registrar’s Office well in advance of enrollment to request certification.  Additional information about veterans’ benefits at Coe College, such as the application process for the various programs, available resources, as well as withdrawal and readmit policies for service members, can be found on the Veteran and Military Student webpage (https://www.coe.edu/admission/financial-aid-scholarships/resources/veterans-and-military-benefits).
 
 + **The Yellow Ribbon GI Educational Enhancement Program**
 	The Yellow Ribbon GI Educational Enhancement Program is a provision of the Post-9/11 Veterans Educational Assistance Act of 2008. The program is designed to supplement the Post-9/11 tuition benefit, which is limited to the highest public in-state undergraduate tuition.  Under the Yellow Ribbon program, Coe College entered into an agreement with the Department of Veterans Affairs to jointly pay the portion of an eligible veteran’s net tuition and fees that exceed the maximum amount otherwise provided by the Post-9/11 GI Bill. Veterans are encouraged to visit the VA’s Yellow Ribbon webpage to determine their eligibility. While not required to file a FAFSA, applicants are strongly encouraged to do so in order to potentially maximize federal and/or state benefits.
@@ -105,6 +90,8 @@ The Veterans Administration administers programs for veterans and service people
 Coe College abides by Section 103 of the Veterans Benefits and Transition Act of 2018. Our educational policy ensures that no penalty will be imposed including: 1) the assessment of late fees; 2) the denial of access to classes, libraries or other institutional facilities and /or 3) the requirements that a Chapter 31 or Chapter 33 recipient borrow additional funds to cover the individual’s inability to meet his or her financial obligations to the institution due to a delayed disbursement of payment by the U.S. Department of Veterans Affairs provided we have a current Certificate of Eligibility (C.O.E.) on file.
 
 ### Tution Discount 
+*Tuiton discounts cannot be combined with Coe scholarships and grants.*  
+
 + **Continuing Student Discount**
 Undergraduate and Post-baccalaureate students who do not qualify for Coe scholarships and grants may contact the Office of Student Financial Services to determine whether they qualify for a tuition discount.
 
@@ -122,21 +109,17 @@ Self-help aid may be need or non-need-based. Students apply for these funds by c
 William D. Ford Federal Direct Stafford Loans must be repaid by the student. The Federal Direct Stafford (FDS) loan program allows students to borrow low-interest loans directly from the federal government. To qualify for an FDS loan, a student must file the FAFSA, be admitted to a degree or certificate program, and be enrolled at least half-time (2.0 course credits).
 + **Loan Types**
 
-	There are two types of Federal Direct Stafford loans: subsidized and unsubsidized. The interest rate for loans processed during the 2021–22 academic year is fixed at 3.73 percent. A 1.057% origination fee is subtracted from the loan funds. Please note, interest rates, subsidies, and origination fees may change. Updated information will be published as it becomes available.
-
+	**There are two types of Federal Direct Stafford loans: Subsidized and unsubsidized.**
 	A student must have financial need to receive a subsidized loan. Financial need is not required to be eligible for an unsubsidized loan. During the time that a student is enrolled on at least a half-time basis (two course credits per term) the federal government will pay the interest on a subsidized FDS loan. Interest will accrue during the in-school periods on an unsubsidized FDS loan. A student has the option of paying the interest during in-school periods or adding the interest to the principal of the loan. Principal payments begin after the six-month grace period.
 
 	Once a student is no longer enrolled at least half-time, repayment begins after a six-month grace period. During the grace period, the student will receive repayment information from the loan servicer, including the first payment due date. Information on the servicer assigned to a student’s loans can be looked up on [Federal Student Aid](studentaid.gov.)
 
 + **Federal Direct Parent Loan for Undergraduate Student’s (PLUS)**
-	Parents who can demonstrate good credit may borrow the difference between the student’s costs of attendance less financial assistance. Both custodial and non-custodial parents can borrow through the PLUS loan program in order to meet their obligation to the student’s costs at Coe. The interest rate for loans processed during the 2021–22 academic year is fixed at 6.28 %.  A 4.228% origination fee is subtracted from the loan funds. Repayment begins 60 days after the loan is fully disbursed unless the borrower requests to defer payment while the student is enrolled.
+	**Parents** who can demonstrate good credit may borrow the difference between the student’s costs of attendance less financial assistance. Both custodial and non-custodial.  Repayment begins 60 days after the loan is fully disbursed unless the borrower requests to defer payment while the student is enrolled.
 
-+ **Federal Direct PLUS Loan Program for Graduate Students**  
-	Federal Direct PLUS Loan Program for Graduate Students must be repaid by the student. The terms and conditions applicable to the Parent PLUS Loan (made to parents of dependent students) also apply to PLUS Loans made to graduate students.
+### Private/Alternative Student Loans {#sec-financial-aid-satisfactory-academic-progress-policy}
 
-### General Policies {#sec-financial-aid-satisfactory-academic-progress-policy}
-
-**Financial Aid Satisfactory Academic Progress Policy — Academic Year 22–23** 
+**Financial Aid Satisfactory Academic Progress Policy** 
 
 The Student Financial Services Office is required to monitor students who receive federal financial aid to determine if they are making satisfactory academic progress (SAP) toward their degree program.
 
