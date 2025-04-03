@@ -36,7 +36,12 @@ jobs:
       # Update tex
       - name: "Update tinytex"
         run: |
-          quarto update tinytex
+          # Update tlmgr itself first (good practice)
+          tlmgr update --self
+          # Install recommended collections
+          tlmgr install collection-latexrecommended
+          tlmgr install collection-latexextra
+          tlmgr install collection-fontsrecommended
       
       # Run build scripts before render
       - name: "Run Build scripts"
