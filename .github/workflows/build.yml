@@ -33,6 +33,11 @@ jobs:
         with:
           tinytex: true
       
+      # Update tex
+      - name: "Update tinytex"
+        run: |
+          quarto update tinytex
+      
       # Run build scripts before render
       - name: "Run Build scripts"
         run: |
