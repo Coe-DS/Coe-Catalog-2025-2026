@@ -51,16 +51,16 @@ Federal regulations require that some applicants who are eligible for need-based
 
 Gift aid does not have to be repaid by the student. Need-based gift aid is available through federal, state, institutional and outside sources.
 
-The value of a Coe Grant is influenced by a student’s financial need. The amount of the Coe Grant can vary from year to year, depending on changes in family income, room and board charges, and the availability of funding.
+The value of a Coe Grant is influenced by a student’s financial need. The amount of the Coe Grant can vary from year to year, depending on changes in family income, room and board charges, and the availability of funding.  
 Coe has many endowed scholarships that have been established by generous alumni and friends of the College. Income from these scholarships is used primarily to support Coe funded merit- and need-based aid. Students awarded Coe aid may be asked to complete an ‘Endowed Scholarship Application.’ The Financial Aid Office will use information from this application to match students with endowed scholarships. Students designated to have their Coe aid funded by an endowed scholarship may be contacted by the Coe College Advancement Office with information about their donor. (**Note**: Endowed scholarships funds support Coe funded aid already granted to the student. Under no circumstances will the student receive additional funding beyond what has already been listed on the financial aid award letter.) Endowed scholarship funds are vital sources of assistance for many of our students. It will be requested that each student receiving funds from an endowed scholarship write a letter of thanks to the donor or the designated official. Donor information and letter suggestions will be provided by the Office of Advancement.  
 The **Federal Pell Grant** program is designed to provide financial assistance to eligible undergraduates. Application is made by filing a Free Application for Federal Student Aid (FAFSA).
 The Federal Pell Grant program provides grants to full- and part-time students and may be used at any eligible college or university that the student attends as an undergraduate or until the student receive a first baccalaureate degree. The award amount may vary according to the cost of the institution and the number of hours for which a student is enrolled. A student may receive no more than the equivalent of 12 full-time term awards. Students must be enrolled for three or more course credits per term to receive the full award. 
 The **Federal Supplemental Educational Opportunity Grant (SEOG)** program provides financial grant assistance to Pell Grant eligible undergraduates with exceptional financial need which, for the purposes of this program, is defined as those with the lowest EFC. The grants are made from funds provided by the federal government to Coe College. The College, in turn, selects needy students who have applied for financial aid and meet awarding criteria established by the federal government. SEOG awards at Coe are based on the availability of funding and can range from \$100 up to \$1,000 per academic year. These funds are limited and not all students who qualify can be assured that they will receive a SEOG grant.
 
-**State-Funded Grants and Scholarships**
-**Iowa Tuition Grant (ITG)**
-**All Iowa Oppurtunity Grant**
-**Education and Training Vouchers (ETV)**
+**State-Funded Grants and Scholarships**  
+**Iowa Tuition Grant (ITG)**  
+**All Iowa Oppurtunity Grant**  
+**Education and Training Vouchers (ETV)**  
 
 National Presbyterian Scholarships are offered to members of the Presbyterian Church (U.S.A.) who plan to attend one of the participating Presbyterian colleges, including Coe College. Students must file a separate application to the Presbyterian Church (U.S.A.) by December 1^st^. Only incoming first-year students may apply for these need-based renewable scholarships. (Applicants must complete the FAFSA to renew the scholarship.)
 
