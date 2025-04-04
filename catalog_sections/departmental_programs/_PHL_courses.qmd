@@ -40,16 +40,16 @@ A grade of “C” (2.0) or higher must be earned in all courses counted toward 
 **Category A: General Introductions**
 
 The following courses, all numbered PHL-105, are different versions of the same course. They share overlapping content and focus on the development of the same skills. Students can receive credit for only one {{< var c.phl105.long >}} course.
- **{{< var c.phl105.long >}}**  
-  {{< var c.phl105.desc >}}   
- **{{< var c.phl105.long >}}**  
-  {{< var c.phl105.desc >}}  
- **{{< var c.phl105.long >}}**  
-  {{< var c.phl105.desc >}}  
- **{{< var c.phl105.long >}}**  
-  {{< var c.phl105.desc >}}  
- **{{< var c.phl105.long >}}**  
-  {{< var c.phl105.desc >}}  
+ 
+**{{< var c.phl105a.long >}}**  
+  {{< var c.phl105a.desc >}}   
+ **{{< var c.phl105b.long >}}**  
+  {{< var c.phl105b.desc >}}  
+ **{{< var c.phl105c.long >}}**  
+  {{< var c.phl105c.desc >}}  
+ **{{< var c.phl105d.long >}}**  
+  {{< var c.phl105d.desc >}}  
+  
 
 **Category B: Ethical and Political Issues**  
  **{{< var c.phl128.long >}}**  
