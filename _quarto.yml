@@ -78,7 +78,7 @@ toc-depth: 2
 
 format:
   html:
-    theme: solar
+    theme: quartz
     mainfont: "Garamond"
   docx:
     mainfont: "Garamond"
