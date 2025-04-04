@@ -4434,66 +4434,16 @@ A grade of “C” (2.0) or higher must be earned in all courses counted toward 
 **Category A: General Introductions**
 
 The following courses, all numbered PHL-105, are different versions of the same course. They share overlapping content and focus on the development of the same skills. Students can receive credit for only one PHL 105 Introduction to Philosophy: course.
- **PHL 105 Introduction to Philosophy:**  
-  Minds:
-Examines what philosophers think about some of the most basic questions in life. What is real? What does it mean to have a mind? Could minds have an existence independent from our bodies? Is there anything we can know with absolute certainty? Are there objective moral values, and if so, could we know what they are? May not be taken more than once for credit.
-
-God:
-Focuses on questions about the nature and existence of God, human nature, personhood, and free will. Is there evidence for the existence of God and is the presence of suffering inthe world consistent with God's existence? Are human beings merely material beings or might we have non-physical minds or souls? What are persons and what constitutes personal identity over time? What does it mean to have free will? Do we possess free will? May not be taken more than once for credit.
-
-Masterworks:
-Central philosophical debates encountered though the examination of important classical and modern texts from the history of philosophy. Readings in the course focus on several major works from philosophers such as Plato, Descartes, Hume, Marx, and Sartre who discuss the meaning of life, belief in God, the mind-body problem, relativism of truth, and other important philosophical concerns. May not be taken more than once for credit.
-
-Science Fiction:
-Uses science fiction as a springboard for thinking about classic issues and problems in philosophy. Sci-fi classics such as The Matrix, Bladerunner, and Surrogates, raise fundamental philosophical questions such as: What the difference between appearance and reality and how can we distinguish between them? What is it to be a person? Should we think that all and only human beings can be person? What is a good human life? Is a pleasant life sufficient for living a good life? In this course such questions are examined through the lens of both philosophy and science fiction. May not be taken more than once for credit.   
- **PHL 105 Introduction to Philosophy:**  
-  Minds:
-Examines what philosophers think about some of the most basic questions in life. What is real? What does it mean to have a mind? Could minds have an existence independent from our bodies? Is there anything we can know with absolute certainty? Are there objective moral values, and if so, could we know what they are? May not be taken more than once for credit.
-
-God:
-Focuses on questions about the nature and existence of God, human nature, personhood, and free will. Is there evidence for the existence of God and is the presence of suffering inthe world consistent with God's existence? Are human beings merely material beings or might we have non-physical minds or souls? What are persons and what constitutes personal identity over time? What does it mean to have free will? Do we possess free will? May not be taken more than once for credit.
-
-Masterworks:
-Central philosophical debates encountered though the examination of important classical and modern texts from the history of philosophy. Readings in the course focus on several major works from philosophers such as Plato, Descartes, Hume, Marx, and Sartre who discuss the meaning of life, belief in God, the mind-body problem, relativism of truth, and other important philosophical concerns. May not be taken more than once for credit.
-
-Science Fiction:
-Uses science fiction as a springboard for thinking about classic issues and problems in philosophy. Sci-fi classics such as The Matrix, Bladerunner, and Surrogates, raise fundamental philosophical questions such as: What the difference between appearance and reality and how can we distinguish between them? What is it to be a person? Should we think that all and only human beings can be person? What is a good human life? Is a pleasant life sufficient for living a good life? In this course such questions are examined through the lens of both philosophy and science fiction. May not be taken more than once for credit.  
- **PHL 105 Introduction to Philosophy:**  
-  Minds:
-Examines what philosophers think about some of the most basic questions in life. What is real? What does it mean to have a mind? Could minds have an existence independent from our bodies? Is there anything we can know with absolute certainty? Are there objective moral values, and if so, could we know what they are? May not be taken more than once for credit.
-
-God:
-Focuses on questions about the nature and existence of God, human nature, personhood, and free will. Is there evidence for the existence of God and is the presence of suffering inthe world consistent with God's existence? Are human beings merely material beings or might we have non-physical minds or souls? What are persons and what constitutes personal identity over time? What does it mean to have free will? Do we possess free will? May not be taken more than once for credit.
-
-Masterworks:
-Central philosophical debates encountered though the examination of important classical and modern texts from the history of philosophy. Readings in the course focus on several major works from philosophers such as Plato, Descartes, Hume, Marx, and Sartre who discuss the meaning of life, belief in God, the mind-body problem, relativism of truth, and other important philosophical concerns. May not be taken more than once for credit.
-
-Science Fiction:
-Uses science fiction as a springboard for thinking about classic issues and problems in philosophy. Sci-fi classics such as The Matrix, Bladerunner, and Surrogates, raise fundamental philosophical questions such as: What the difference between appearance and reality and how can we distinguish between them? What is it to be a person? Should we think that all and only human beings can be person? What is a good human life? Is a pleasant life sufficient for living a good life? In this course such questions are examined through the lens of both philosophy and science fiction. May not be taken more than once for credit.  
- **PHL 105 Introduction to Philosophy:**  
-  Minds:
-Examines what philosophers think about some of the most basic questions in life. What is real? What does it mean to have a mind? Could minds have an existence independent from our bodies? Is there anything we can know with absolute certainty? Are there objective moral values, and if so, could we know what they are? May not be taken more than once for credit.
-
-God:
-Focuses on questions about the nature and existence of God, human nature, personhood, and free will. Is there evidence for the existence of God and is the presence of suffering inthe world consistent with God's existence? Are human beings merely material beings or might we have non-physical minds or souls? What are persons and what constitutes personal identity over time? What does it mean to have free will? Do we possess free will? May not be taken more than once for credit.
-
-Masterworks:
-Central philosophical debates encountered though the examination of important classical and modern texts from the history of philosophy. Readings in the course focus on several major works from philosophers such as Plato, Descartes, Hume, Marx, and Sartre who discuss the meaning of life, belief in God, the mind-body problem, relativism of truth, and other important philosophical concerns. May not be taken more than once for credit.
-
-Science Fiction:
-Uses science fiction as a springboard for thinking about classic issues and problems in philosophy. Sci-fi classics such as The Matrix, Bladerunner, and Surrogates, raise fundamental philosophical questions such as: What the difference between appearance and reality and how can we distinguish between them? What is it to be a person? Should we think that all and only human beings can be person? What is a good human life? Is a pleasant life sufficient for living a good life? In this course such questions are examined through the lens of both philosophy and science fiction. May not be taken more than once for credit.  
- **PHL 105 Introduction to Philosophy:**  
-  Minds:
-Examines what philosophers think about some of the most basic questions in life. What is real? What does it mean to have a mind? Could minds have an existence independent from our bodies? Is there anything we can know with absolute certainty? Are there objective moral values, and if so, could we know what they are? May not be taken more than once for credit.
-
-God:
-Focuses on questions about the nature and existence of God, human nature, personhood, and free will. Is there evidence for the existence of God and is the presence of suffering inthe world consistent with God's existence? Are human beings merely material beings or might we have non-physical minds or souls? What are persons and what constitutes personal identity over time? What does it mean to have free will? Do we possess free will? May not be taken more than once for credit.
-
-Masterworks:
-Central philosophical debates encountered though the examination of important classical and modern texts from the history of philosophy. Readings in the course focus on several major works from philosophers such as Plato, Descartes, Hume, Marx, and Sartre who discuss the meaning of life, belief in God, the mind-body problem, relativism of truth, and other important philosophical concerns. May not be taken more than once for credit.
-
-Science Fiction:
-Uses science fiction as a springboard for thinking about classic issues and problems in philosophy. Sci-fi classics such as The Matrix, Bladerunner, and Surrogates, raise fundamental philosophical questions such as: What the difference between appearance and reality and how can we distinguish between them? What is it to be a person? Should we think that all and only human beings can be person? What is a good human life? Is a pleasant life sufficient for living a good life? In this course such questions are examined through the lens of both philosophy and science fiction. May not be taken more than once for credit.  
+ 
+**PHL 105 Introduction to Philosophy: Minds, Knowledge, and Value (WE)**  
+  Examines what philosophers think about some of the most basic questions in life. What is real? What does it mean to have a mind? Could minds have an existence independent from our bodies? Is there anything we can know with absolute certainty? Are there objective moral values, and if so, could we know what they are? May not be taken more than once for credit.   
+ **PHL 105 Introduction to Philosophy: God, Self, and Free Will (WE)**  
+  Focuses on questions about the nature and existence of God, human nature, personhood, and free will. Is there evidence for the existence of God and is the presence of suffering in the world consistent with God’s existence? Are human beings merely material beings or might we have non-physical minds or souls? What are persons and what constitutes personal identity over time? What does it mean to have free will? Do we possess free will? May not be taken more than once for credit.  
+ **PHL 105 Introduction to Philosophy: Masterworks (WE)**  
+  Central philosophical debates encountered through the examination of important classical and modern texts from the history philosophy. Readings in the course focus on several major works from philosophers such as Plato, Descartes, Hume, Marx, and Sartre who discuss the meaning of life, belief in God, the mind-body problem, relativism of truth, and other important philosophical concerns. May not be taken more than once for credit.  
+ **PHL 105 Introduction to Philosophy: Science Fiction and Philosophy (WE)**  
+  Uses science fiction as a springboard for thinking about classic issues and problems in philosophy. Sci-fi classics such as The Matrix, Bladerunner, and Surrogates, raise fundamental philosophical questions such as: What is the difference between appearance and reality and how can we distinguish between them? What is it to be a person? Should we think that all and only human beings can be persons? What is a good human life? Is a pleasant life sufficient for living a good life? In this course, such questions are examined through the lens of both philosophy and science fiction. May not be taken more than once for credit.   
+  
 
 **Category B: Ethical and Political Issues**  
  **PHL 128 Morality & Moral Controversies**  
