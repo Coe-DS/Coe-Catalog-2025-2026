@@ -4,7 +4,7 @@
 
    |   
 :-|---:
-Tues, August 23 |	Open Registration 
+Tues, August 19 |	Open Registration 
 Wed, August 24 |	Classes Begin
 Tues, August 30 |	Last Day to Add or Drop a Full-Term, or 1st Half-Term Course without a W
 Fri, September 2 |	Census Date, Attendance Due on My.Coe
